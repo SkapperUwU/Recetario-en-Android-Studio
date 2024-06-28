@@ -32,5 +32,5 @@ Utiliza la barra de búsqueda en la parte superior de la pantalla principal para
 ### Agregar Recetas
 Para agregar una nueva receta, toca el botón de agregar (Nueva receta...). Se abrirá un formulario donde puedes ingresar el nombre de la receta, una imagen, añadir ingredientes dinámicamente y la preparación.
 
-<img src="https://github.com/SkapperUwU/Recetario-en-Android-Studio/assets/89941725/1bc2e24b-3911-4dc4-9ab4-42bef4dc8792" alt="Main activity" height="200">
+<img src="https://github.com/SkapperUwU/Recetario-en-Android-Studio/assets/89941725/1bc2e24b-3911-4dc4-9ab4-42bef4dc8792" alt="Main activity" height="350">
 
