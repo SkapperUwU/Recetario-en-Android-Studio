@@ -57,14 +57,14 @@ Puedes ver los detalles completos de una receta tocando el botón de ver detalle
 
 ## Información Adicional
 
-Este proyecto ha sido desarrollado por estudiantes como parte de un trabajo escolar. El objetivo principal es aprender y demostrar competencias en el desarrollo de aplicaciones móviles utilizando Firebase Firestore para el almacenamiento y sincronización de datos en tiempo real.
+Este proyecto ha sido desarrollado por estudiantes como parte de un trabajo escolar, por lo que aun es suceptible a errores. El objetivo principal es aprender y demostrar competencias en el desarrollo de aplicaciones móviles utilizando Firebase Firestore para el almacenamiento y sincronización de datos en tiempo real.
 
 ### Desarrolladores:
-Rodriguez Monroy Ariana Estefania
-Jimenez Estrada Jesus
+Rodriguez Monroy Ariana Estefania  
+Jimenez Estrada Jesus  
 Cruz Martinez Evelin Lizet
 
-***Tecnologico de Estudios Superiores Oriente del Estado de México***
-***Ingenieria en Sistemas Computacionales***
+***Tecnologico de Estudios Superiores Oriente del Estado de México***  
+***Ingenieria en Sistemas Computacionales***  
 ***8S12***
 
